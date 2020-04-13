@@ -6,8 +6,8 @@ Use BLE UART service(TX/RX) to communicate with phone app.
 <img src="picture/NeopixelBLE0413.gif"/> &nbsp;&nbsp;&nbsp;
 
 <br><br>
-
-<img src="picture/nimBLE UART build 0413.png"/> Build size status...
+Build size...<br>
+<img src="picture/nimBLE UART build 0413.png"/> 
 
 ### References
   - [NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) Arduino Adafruit NeoPixel Library.
