@@ -9,6 +9,6 @@ Use two BLE services (UART TX/RX) to communicate with phone app.
 
 
 ### References
-  - [NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) Arduino Adafruit NeoPixel Library
+  - [NeoPixel library](https://github.com/adafruit/Adafruit_NeoPixel) Arduino Adafruit NeoPixel Library.
   - [nimBLE Arduino BLE stack](https://github.com/h2zero/NimBLE-Arduino) Smaller BLE only stack for ESP32.
-  - [Android App for BLE UART control tool](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect) Android App
+  - [Android App for BLE UART control](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect) Android App at Google Play.
