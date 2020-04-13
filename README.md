@@ -1,6 +1,6 @@
 # ESP32-NimBLE-Neopixel [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)<br>
 ESP32 NimBLE Bluetooth Neopixel w/ T-Audio board.<br>
-
+Use two BLE services (UART TX/RX) to communicate with phone app.
 
 
 <img src="picture/NeopixelBLE0413.gif"/> &nbsp;&nbsp;&nbsp;
