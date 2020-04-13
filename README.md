@@ -6,7 +6,7 @@ Use BLE UART service(TX/RX) to communicate with phone app.
 <img src="picture/NeopixelBLE0413.gif"/> &nbsp;&nbsp;&nbsp;
 
 <br><br>
-Build size...<br>
+Build size w/ option CORE_DEBUG_LEVEL=5...<br>
 <img src="picture/nimBLE UART build 0413.png"/> 
 
 ### References
