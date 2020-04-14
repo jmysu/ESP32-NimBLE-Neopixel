@@ -3,7 +3,7 @@ ESP32 NimBLE Bluetooth Neopixel w/ T-Audio board.<br>
 Use BLE UART service(TX/RX) to communicate with phone app.
 
 
-<img src="picture/NeopixelBLE0413.gif"/> &nbsp;&nbsp;&nbsp;
+<img src="picture/nimBLEneopixel0415.gif"/> &nbsp;&nbsp;&nbsp;
 
 <br><br>
 Library dependancy && Build size w/ option CORE_DEBUG_LEVEL=5...<br>
